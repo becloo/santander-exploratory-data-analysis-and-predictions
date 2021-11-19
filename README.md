@@ -1,4 +1,4 @@
-# Santander-Exploratory-Data-Analysis-and-Predictions
+# santander-exploratory-data-analysis-and-dpredictions
 Goal: 
 
 ## Results
