@@ -6,7 +6,9 @@ Exploratory data analysis (EDA) is essential to obtain an inital overview of you
 
 ## Problem:
 
+As a preliminary look at the Santander dataset, it is crucial to understand patterns and potential relationships among features. Here, we will try to discover what our dataset tells us, analyzing whether there are features that heavily affect our target outcome. 
 
+For privacy purposes, this dataset does not contain any ID codes or feature names. Therefore, we are only exploring which blind features are most imporant to our target.
 
 ## Methodology:
 
